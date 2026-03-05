@@ -1,18 +1,18 @@
 body{
-    background-color: #f4f6f8;
+background-color:#f4f6f8;
 }
 
 h1{
-    font-weight: bold;
+font-weight:bold;
 }
 
 .list-group-item{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+display:flex;
+justify-content:space-between;
+align-items:center;
 }
 
 .completed{
-    text-decoration: line-through;
-    color: gray;
+text-decoration:line-through;
+color:gray;
 }
